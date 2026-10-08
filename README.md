@@ -1,0 +1,2 @@
+# SmartAccountSMS_Klencod_Flutter_v0_5_3_GRADLE_FIXED
+Flutter project created by KLENCOD IDE
